@@ -2,11 +2,16 @@
 This project aims to implement a One-Time Pad encryption system using Python. The One-Time Pad encryption is a theoretically unbreakable encryption technique if used correctly. It works by combining a plaintext message with a random key of the same length to produce the ciphertext.
 
 # Features
-Encrypt plaintext messages using a one-time pad key
-Decrypt ciphertext using the corresponding one-time pad key
-Generate random one-time pad keys
-Support for both text and file encryption/decryption
-Command-line interface for easy usage
+Encrypt plaintext messages using a one-time pad key.
+
+Decrypt ciphertext using the corresponding one-time pad key.
+
+Generate random one-time pad keys.
+
+Support for both text and file encryption/decryption.
+
+Command-line interface for easy usage.
+
 
 # Installation
 Clone the reporsitory:
