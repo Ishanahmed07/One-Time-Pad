@@ -17,7 +17,7 @@ Command-line interface for easy usage.
 
 Clone the reporsitory:
 
- - git clone https://github.com/your-username/one-time-pad.git
+ - git clone https://github.com/Ishanahmed07/one-time-pad.git
  
 Navigate to the project directory:
 
