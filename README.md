@@ -14,11 +14,17 @@ Command-line interface for easy usage.
 
 
 # Installation
+
 Clone the reporsitory:
+
  - git clone https://github.com/your-username/one-time-pad.git
+ 
 Navigate to the project directory:
+
  - cd one-time-pad
+ 
 Run OneTimePad.py file
+
  - python OneTimePad.py
 
 
